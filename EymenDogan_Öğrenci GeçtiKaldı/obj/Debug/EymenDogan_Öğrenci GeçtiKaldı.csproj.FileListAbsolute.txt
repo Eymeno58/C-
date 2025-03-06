@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\bin\Debug\EymenDogan_Öğrenci GeçtiKaldı.exe.config
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\bin\Debug\EymenDogan_Öğrenci GeçtiKaldı.exe
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\bin\Debug\EymenDogan_Öğrenci GeçtiKaldı.pdb
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci GeçtiKaldı.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci_GeçtiKaldı.Form1.resources
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci_GeçtiKaldı.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci GeçtiKaldı.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci GeçtiKaldı.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci GeçtiKaldı.exe
+C:\Users\ogrenci\Desktop\EymenDogan_Öğrenci GeçtiKaldı\obj\Debug\EymenDogan_Öğrenci GeçtiKaldı.pdb
